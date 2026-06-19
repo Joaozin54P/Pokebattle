@@ -39,6 +39,13 @@ Caso ocorra algum erro, delete a pasta `node_modules` e repita o processo de ins
 ```bash
 npm install --legacy-peer-deps
 ```
+---
+## 🔐 Acesso à Aplicação
+ 
+Para entrar no sistema, utilize as seguintes credenciais:
+ 
+- **Usuário:** Joen
+- **Senha:** joen123
 
 ---
 
